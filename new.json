@@ -1,1 +1,6 @@
-{}[D'name':''[Digor', 'age': 35}
+{"first_name":"Igor",
+"last_name":"Silin",
+"Age": 35,
+"pets": "cat",
+"salary": 100
+}
